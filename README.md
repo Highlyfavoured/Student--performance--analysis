@@ -2,6 +2,7 @@
 Education generates vast amounts of data, yet turning that data into meaningful insights remains a challenge for many institutions. In this project, I explored how student performance data can be transformed into clear, actionable insights using Microsoft Excel. 
 Using Microsoft Excel, this analysis explores how factors such as gender, race/ethnicity, parental education level, lunch quality, and test preparation courses influence student performance across mathematics, reading, and writing.The final output is an interactive dashboard supported by a structured technical report, designed to aid data-driven decision-making in education.
 
+<img width="1303" height="549" alt="School dashboard" src="https://github.com/user-attachments/assets/4ab136b6-9837-4d98-87a6-dbfac9248a85" />
 
 
  Objectives
